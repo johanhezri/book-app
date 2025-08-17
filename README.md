@@ -1,6 +1,6 @@
 # Book App
 
-A Vue 3 + Vite application for searching books using the Google Books API. Features include search filters, card/list view toggling, pagination, and book details.
+A Vue 3 + Vite application for searching books using the [Google Books API](https://developers.google.com/books/docs/v1/getting_started). Features include search filters, card/list view toggling, pagination, and book details.
 
 ## Features
 
@@ -34,16 +34,11 @@ A Vue 3 + Vite application for searching books using the Google Books API. Featu
 - Node.js v20.19.0 or >=22.12.0
 - npm
 
-### Install dependencies
-
-```sh
-npm install
-```
-
 ### Run in local environment
 
 ```sh
-> cd/book-app
+> git clone https://github.com/johanhezri/book-app.git
+> npm i
 > npm run dev
 ```
 
