@@ -1,0 +1,4 @@
+@import './style-vue.css';
+@import './style-tailwind.css';
+@import 'tailwindcss' important;
+@import 'tailwindcss-primeui';
